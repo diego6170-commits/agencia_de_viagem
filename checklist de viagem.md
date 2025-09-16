@@ -1,24 +1,24 @@
 ## Documentos Essenciais
 - [] Passaporte/Visto
-- [] Cartão de vacinação
+- [x] Cartão de vacinação
 - [] Seguro viagem
 - [] Reservas de hospedagem
 
 ## Saúde e Medicamentos
 - [] Medicamentos pessoais
-- [] Kit primeiros socorros
+- [x] Kit primeiros socorros
 - [] Protetor solar
 
 ## Vestuário
 - [] Roupas por clima
-- [] Calçados confortáveeis
+- [x] Calçados confortáveeis
 - [] Roupa de dormir
 - [] Acessórios (óculos, chapéu)
 
 ## Tecnologia
 - [] Carregadores portáteis
 - [] Adaptadores de tomada
-- [] Power bank
+- [x] Power bank
 - [] Cabos USB
 
 ## Verificações finais
