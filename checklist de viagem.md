@@ -1,31 +1,31 @@
 ## Documentos Essenciais
-- [] Passaporte/Visto
+- [ ] Passaporte/Visto
 - [x] Cartão de vacinação
-- [] Seguro viagem
-- [] Reservas de hospedagem
+- [ ] Seguro viagem
+- [ ] Reservas de hospedagem
 
 ## Saúde e Medicamentos
-- [] Medicamentos pessoais
+- [ ] Medicamentos pessoais
 - [x] Kit primeiros socorros
-- [] Protetor solar
+- [ ] Protetor solar
 
 ## Vestuário
-- [] Roupas por clima
+- [ ] Roupas por clima
 - [x] Calçados confortáveeis
-- [] Roupa de dormir
-- [] Acessórios (óculos, chapéu)
+- [ ] Roupa de dormir
+- [ ] Acessórios (óculos, chapéu)
 
 ## Tecnologia
-- [] Carregadores portáteis
-- [] Adaptadores de tomada
+- [ ] Carregadores portáteis
+- [ ] Adaptadores de tomada
 - [x] Power bank
-- [] Cabos USB
+- [ ] Cabos USB
 
 ## Verificações finais
-- [] Notificar banco sobre viagem
-- [] Baixar mapas offline
-- [] Confirnar check-in online
-- [] Checar previsão do tempo
+- [ ] Notificar banco sobre viagem
+- [ ] Baixar mapas offline
+- [ ] Confirnar check-in online
+- [ ] Checar previsão do tempo
 
 ## TUDO PRONTO!
 # Bom embarque e ótima viagem!
