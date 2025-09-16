@@ -8,3 +8,15 @@
 - [] Medicamentos pessoais
 - [] Kit primeiros socorros
 - [] Protetor solar
+
+## Vestuário
+- [] Roupas por clima
+- [] Calçados confortáveeis
+- [] Roupa de dormir
+- [] Acessórios (óculos, chapéu)
+
+## Tecnologia
+- [] Carregadores portáteis
+- [] Adaptadores de tomada
+- [] Power bank
+- [] Cabos USB
