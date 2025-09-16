@@ -20,3 +20,12 @@
 - [] Adaptadores de tomada
 - [] Power bank
 - [] Cabos USB
+
+## Verificações finais
+- [] Notificar banco sobre viagem
+- [] Baixar mapas offline
+- [] Confirnar check-in online
+- [] Checar previsão do tempo
+
+## TUDO PRONTO!
+# Bom embarque e ótima viagem!
